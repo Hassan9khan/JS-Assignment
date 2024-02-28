@@ -46,3 +46,16 @@
 // var sign;
 // sign = "==========@#-&-#@==========";    
 // alert(sign);
+
+// var age;
+// age = 'I am 18 years old';
+// alert(age);
+
+// var year = 2005
+// document.write("My birth years is " + year + "<br>")
+// document.write(" Data type of my declared variable is " + typeof(year))
+
+var names = "John Wick";
+var product = "T-shirt"
+var quantity = "5"
+document.write(names + " ordered " + quantity + " " + product + " on XYZ Clothing ")
